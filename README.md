@@ -9,4 +9,4 @@ Auteur : Ugo Roccamatisi.
 
 Ouvrir chaque notebook dans son dossier puis exécuter ses cellules dans l'ordre. Les sorties et figures sont déjà enregistrées. Le corpus 20 Newsgroups nécessaire au TP3 est joint sous forme de cache ; l'exécution de ce modèle sur les 11 314 documents peut prendre plusieurs minutes.
 
-Les quatre notebooks sont rendus séparément dans l'archive, pour correspondre aux quatre fichiers reçus. Le nom de l'auteur figure sans date.
+Les quatre notebooks sont rendus séparément dans l'archive, pour correspondre aux quatre fichiers reçus. 
