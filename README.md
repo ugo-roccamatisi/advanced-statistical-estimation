@@ -27,13 +27,8 @@ Four labs from the Advanced Statistical Estimation course at Centrale Lille, goi
 .
 ├── lab1/lab1.ipynb
 ├── lab2/lab2.ipynb
-├── lab3/
-│   ├── lab3.ipynb
-│   └── park-casella.pdf        # Park and Casella (2008), The Bayesian Lasso
-├── lab4/
-│   ├── lab4.ipynb
-│   ├── LDA.pdf                 # description of the LDA model used in the lab
-│   └── sklearn_data/           # cached 20 Newsgroups corpus (runs offline)
+├── lab3/lab3.ipynb
+├── lab4/lab4.ipynb             # 20 Newsgroups is downloaded by scikit-learn on first run
 ├── docs/                       # Figures used in this README
 └── requirements.txt
 ```
